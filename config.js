@@ -1,0 +1,5 @@
+APP_URL=https://pgalpha.uat.samiakus.com/
+APP_USERNAME=test
+APP_PASSWORD=test123
+COMPANY_NAME=
+APP_TIMEOUT=30000
